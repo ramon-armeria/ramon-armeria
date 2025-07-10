@@ -1,16 +1,23 @@
-## Hi there 👋
+# 📘 Mathematical Portfolio
 
-<!--
-**ramon-armeria/ramon-armeria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Author:** Ramon Armeria  
+**GitHub:** [@ramon-armeria](https://github.com/ramon-armeria)  
+**Started:** July 2025  
+**Status:** Ongoing
 
-Here are some ideas to get you started:
+This repository documents my structured self-study in mathematics, including:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Formal notes
+- Solved problems and proofs
+- Summaries, cheatsheets, and chapter reflections
+- Study paths inspired by UK university-level syllabi
+
+### 🎯 Focus Areas
+- Abstract Algebra (*Aluffi, Lang*)
+- Real & Complex Analysis (*Abbott, Marsden, MIR*)
+- Mathematical Logic & Proofs (*Velleman*)
+- Electromagnetics and Applied Math
+
+---
+
+> 📌 All content is written, compiled, and maintained by **Ramon Armeria** as part of a long-term academic portfolio.
