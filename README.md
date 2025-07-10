@@ -5,6 +5,10 @@
 **Started:** July 2025  
 **Status:** Ongoing
 
+## 🎯 Why I Study Mathematics
+
+My study of mathematics is not just academic — it's foundational. I aim to deeply understand the structures and logic that underpin the sciences, language, and even human reasoning. Rather than memorizing results, I focus on reconstructing the ideas from first principles, building everything from the ground up: from Peano axioms to Galois theory, from epsilon-delta definitions to spectral analysis. This portfolio is both a personal archive and a public demonstration of this lifelong pursuit.
+
 This repository documents my structured self-study in mathematics, including:
 
 - Formal notes
